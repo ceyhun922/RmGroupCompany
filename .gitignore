@@ -1,0 +1,44 @@
+# Build outputs
+bin/
+obj/
+publish/
+
+# Uploaded files
+wwwroot/uploads/
+
+# Runtime artifacts
+*.dll
+*.pdb
+*.exe
+*.runtimeconfig.json
+*.deps.json
+*.staticwebassets.*
+web.config
+
+# NuGet
+*.nuget.dgspec.json
+*.nuget.g.props
+project.assets.json
+project.nuget.cache
+
+# Language resource folders
+cs/
+de/
+es/
+fr/
+it/
+ja/
+ko/
+pl/
+pt-BR/
+ru/
+tr/
+zh-Hans/
+zh-Hant/
+
+# Build host
+BuildHost-net472/
+BuildHost-netcore/
+
+# Stray files
+udo*
